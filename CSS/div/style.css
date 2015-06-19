@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family:"Times New Roman", Times, serif;
+	font-size:16px;
+	font-style:normal;
+	font-weight:bold;
+	text-align:center;
+	width:800px;
+	margin:auto;
+}
+
+#banner{
+height:80px;
+background-color:#06F;
+color:#FFF;
+line-height:80px;
+border-bottom:2px solid #F0F;
+margin: 10px 0px 10px 0px;
+}
+
+#menu{
+height:40px;
+background-color:#0FF;
+color:#F00;
+line-height:40px;
+}
+
+#wrapper{
+height:500px;
+margin-top:10px;
+}
+
+#left{
+width:140px;
+height:480px;
+background-color:#C9F;
+float:left;
+padding-top:20px;
+}
+
+#mid{
+width:500px;
+height:500px;
+background-color:#FF0;
+float:left;
+
+}
+
+#right{
+width:160px;
+height:500px;
+background-color:#0F0;
+float:left;
+
+}
+
+#bottom{
+height:50px;
+background-color:#333;
+color:#FFF;
+}

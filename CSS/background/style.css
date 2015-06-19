@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #BAA983;
+	background-image:url(cau%20Long%20bien.png);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	color:#3F3;
+}
